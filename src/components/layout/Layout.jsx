@@ -1,22 +1,22 @@
-import React from "react";
-import { Outlet } from "react-router-dom";
+import React from 'react';
+import { Outlet } from 'react-router-dom';
 
-import { ToastContainer } from "react-toastify";
+import { ToastContainer } from 'react-toastify';
 
-import Container from "react-bootstrap/Container";
+import Container from 'react-bootstrap/Container';
 
-import Header from "./Header";
+import Header from './Header';
 
 export default function Layout() {
-  return (
-    <>
-      <Header />
-      
-      <Container style={{marginTop:"90px"}}>
-        <Outlet />
-      </Container>
+    return (
+        <>
+            <Header />
 
-      <ToastContainer />
-    </>
-  );
+            <Container style={{ marginTop: '90px' }}>
+                <Outlet />
+            </Container>
+
+            <ToastContainer />
+        </>
+    );
 }
