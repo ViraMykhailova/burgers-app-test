@@ -1,6 +1,8 @@
-# BonBurgers – app for burger restaurant
-https://viramykhailova.github.io/burgers-app-test/
+# Burgers App - Main page and cart.
 
+This is a pet project created for educational purposes.
+It was deployed on GitHub Pages for convenience : 
+https://viramykhailova.github.io/burgers-app-test/
 
 
 ## Setup
