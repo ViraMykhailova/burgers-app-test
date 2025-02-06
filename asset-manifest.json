@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/burgers-app-test/static/css/main.8b583414.css",
-    "main.js": "/burgers-app-test/static/js/main.939a19ed.js",
+    "main.js": "/burgers-app-test/static/js/main.9fdc52fa.js",
     "static/media/burger-logo.png": "/burgers-app-test/static/media/burger-logo.068168eae556877fafc5.png",
     "static/media/burger-5.png": "/burgers-app-test/static/media/burger-5.57e51eac0d548f28ea7a.png",
     "static/media/burger-1.png": "/burgers-app-test/static/media/burger-1.44909e3ab3c3bc5f165d.png",
@@ -13,10 +13,10 @@
     "static/media/trash.png": "/burgers-app-test/static/media/trash.c4e35861d2606e76ed78.png",
     "index.html": "/burgers-app-test/index.html",
     "main.8b583414.css.map": "/burgers-app-test/static/css/main.8b583414.css.map",
-    "main.939a19ed.js.map": "/burgers-app-test/static/js/main.939a19ed.js.map"
+    "main.9fdc52fa.js.map": "/burgers-app-test/static/js/main.9fdc52fa.js.map"
   },
   "entrypoints": [
     "static/css/main.8b583414.css",
-    "static/js/main.939a19ed.js"
+    "static/js/main.9fdc52fa.js"
   ]
 }
